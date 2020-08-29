@@ -5,7 +5,8 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    int a = 1;
+    std::cout << a << std::endl;
     std::cin.get();
 }
 
